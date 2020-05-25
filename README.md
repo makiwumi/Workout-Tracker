@@ -28,7 +28,7 @@ An app that allows the user to create new workouts, add exercises to new and pre
 * path NPM Package
 * Mongoose
 * MongoDB
-* heroku-cli NPM Package          
+* Morgan         
             
 ## Contributing
             
