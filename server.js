@@ -1,8 +1,7 @@
 //Dependencies
 const express = require("express");
 const mongoose = require("mongoose");
-const path = require("path");
-const bodyParser = require("body-parser");
+const morgan = require("morgan");
 
 //Express app
 const PORT = process.env.PORT || 3000;
